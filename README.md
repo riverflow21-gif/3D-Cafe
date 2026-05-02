@@ -250,7 +250,7 @@ const DEFAULT_CONFIG = {
     gallery_4:"https://picsum.photos/seed/3d-cafe-drinks-display/400/400.jpg",gallery_5:"https://picsum.photos/seed/3d-cafe-food-table/400/400.jpg",
 
     // ── Music ──
-    bgm_url:"https://cdn.pixabay.com/audio/2022/10/25/audio_1408fbf07a.mp3",
+    bgm_url:"[https://cdn.pixabay.com/audio/2022/10/25/audio_1408fbf07a.mp3](https://cdn.pixabay.com/download/audio/2026/05/01/audio_71843cab3e.mp3?filename=u_y433zeithg-late-night-coffee-527611.mp3)",
     bgm_volume:"40",
 };
 
